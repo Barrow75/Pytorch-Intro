@@ -25,8 +25,8 @@ This file is the very first deep learning model I have made using pytorch. This 
   - split data into training and testing data
   - Vizualize the split data
   - create loinear regression model ( look at training data and adjust the random values, or better represent (get closer to) ideal values (aka weight and bias we used to create the data) by:
-      # 1. Gradient Descent
-      # 2. Back Propagation
+      - 1. Gradient Descent
+      - 2. Back Propagation
   - create random seed - keeps the numbers consistent for reproducibility and consistent results
   - initialzie the model
   - use model to make predictions before training
