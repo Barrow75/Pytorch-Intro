@@ -20,7 +20,7 @@ This file is just a simple introduction into tensors using PyTorch as well as Nu
 
 **First model using pytorch : Model_0* (pytorch_Intro.py)
 -----------------------------------------------------------------------------------------------------------------
-This file is the very first deep learning model I have made using pytorch. This code has a created linear data set that is then split up into training and testing data that is then visualized on a graph using matplotlib and then is converted into a linear regression model (predict the outcome basewd on the linear dataset) then the model is trained after setting up looss functions and optimizers to try and get an accuraate prediction:\
+This file is the very first deep learning model I have made using pytorch. This code has a created linear data set that is then split up into training and testing data that is then visualized on a graph using matplotlib and then is converted into a linear regression model (predict the outcome basewd on the linear dataset) then the model is trained after setting up looss functions and optimizers to try and get an accuraate prediction:
   - initialized weights and bias
   - split data into training and testing data
   - Vizualize the split data
@@ -32,3 +32,13 @@ This file is the very first deep learning model I have made using pytorch. This 
   - use model to make predictions before training
   - training the model using a training loop
   - vizualize the results
+
+**Second model using pytorch : Model_1* (pytorch_Intro.py)
+-----------------------------------------------------------------------------------------------------------------
+This is just like the first pytorch learning module where I did a simple lineart regression model. The code portrays things such as:
+  - Creating a dtaset of linear regression
+  - Splitting data into training and test sets
+  - Visualize the data
+  - Building pytorch linear model
+  - Training the model
+  - Evaluate the model
